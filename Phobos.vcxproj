@@ -20,6 +20,7 @@
     <ClCompile Include="src\Ext\TechnoType\Hook.cpp" />
     <ClCompile Include="src\Ext\WeaponType\Body.cpp" />
     <ClCompile Include="src\Ext\WeaponType\DiskLaserRadius.cpp" />
+    <ClCompile Include="src\Misc\ArcingProjectileFix.cpp" />
     <ClCompile Include="src\Misc\Savegame.cpp" />
     <ClCompile Include="src\Misc\ExtendedToolTips.cpp" />
     <ClCompile Include="src\Misc\Selection.cpp" />
